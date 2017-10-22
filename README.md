@@ -1,2 +1,2 @@
-# Java-8-features
-Java 8 Tutorial
+# java-8-features
+java 8 tutorial features
